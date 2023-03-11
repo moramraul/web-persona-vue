@@ -1,0 +1,26 @@
+{
+  "name": "web-personal-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "eslint": "^8.36.0",
+    "http-server": "^14.1.1",
+    "nodemon": "^2.0.21",
+    "prettier": "^2.8.4",
+    "pug": "^3.0.2",
+    "typescript": "^4.9.5",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/tsconfig": "^0.1.3",
+    "vite": "^4.1.0"
+  }
+}

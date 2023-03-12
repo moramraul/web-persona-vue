@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    li {
+        margin-right: 1.2rem;
+        font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
+    }
+}

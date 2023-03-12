@@ -1,10 +1,10 @@
 
 <template lang="pug">
-.container
-  WelcomePage(msg="Raúl Mora's Webpage")
+.app-container
+  WelcomePage
 </template>
 <script setup lang="ts">
-import WelcomePage from './components/WelcomePage.vue';
+import WelcomePage from './views/WelcomePage.vue';
 </script>
 <style scoped>
 .logo {
